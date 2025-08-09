@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/goodbuti/public_html/
+    - export DEPLOYPATH=/home/goodbuti/public_html/elegantik
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
